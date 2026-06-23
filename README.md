@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifur Rahaman</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">SOFTWARE ENGINEERING</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
