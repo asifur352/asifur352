@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asifur Rahaman</h1>
-<h3 align="center">Frontend Developer | React Learner | Bangladesh 🇧🇩</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React.js**
 - 💻 Passionate about Frontend Development
 - 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love building responsive websites
@@ -79,20 +78,4 @@
 </p>
 
 ---
-
-## 💻 Currently Learning
-
-```javascript
-const asif = {
-  code: ["HTML", "CSS", "JavaScript"],
-  frameworks: ["React", "Bootstrap"],
-  tools: ["Git", "GitHub", "VS Code"],
-  challenge: "Becoming a Professional Frontend Developer"
-};
-
-console.log("Keep Learning 🚀");
-```
-
----
-
 ⭐️ From [asifur352](https://github.com/asifur352)
